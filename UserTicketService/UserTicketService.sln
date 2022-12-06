@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserTicketService", "UserTi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserTicketService.Tests", "UserTicketService.Tests\UserTicketService.Tests.csproj", "{DF3A4D11-ADC5-4B46-BAF2-B7766870306B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserTicketService.MS.Tests", "UserTicketService.MS.Tests\UserTicketService.MS.Tests.csproj", "{912D22FB-1223-49CB-9477-2159793E6C4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DF3A4D11-ADC5-4B46-BAF2-B7766870306B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF3A4D11-ADC5-4B46-BAF2-B7766870306B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF3A4D11-ADC5-4B46-BAF2-B7766870306B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{912D22FB-1223-49CB-9477-2159793E6C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912D22FB-1223-49CB-9477-2159793E6C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912D22FB-1223-49CB-9477-2159793E6C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912D22FB-1223-49CB-9477-2159793E6C4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -63,6 +63,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaseRepository.cs" />
     <Compile Include="Calculator.cs" />
     <Compile Include="ITicketService.cs" />
     <Compile Include="Program.cs" />
@@ -71,6 +72,7 @@
     <Compile Include="TicketNotFoundException.cs" />
     <Compile Include="TicketPrice.cs" />
     <Compile Include="TicketService.cs" />
+    <Compile Include="WorkRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
